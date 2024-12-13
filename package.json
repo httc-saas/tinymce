@@ -1,6 +1,6 @@
 {
-  "name": "httcvn-tinymce",
-  "version": "1.0.0",
+  "name": "tinymce",
+  "version": "7.6.0",
   "description": "Self-hosted TinyMCE WYSIWYG editor under the httcvn namespace",
   "main": "tinymce/tinymce.min.js",
   "repository": {
