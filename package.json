@@ -1,0 +1,17 @@
+{
+  "name": "httcvn-tinymce",
+  "version": "1.0.0",
+  "description": "Self-hosted TinyMCE WYSIWYG editor under the httcvn namespace",
+  "main": "tinymce/tinymce.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httc-saas/tinymce.git"
+  },
+  "keywords": [
+    "tinymce",
+    "wysiwyg",
+    "editor"
+  ],
+  "author": "HTTC <hungthai@ht-tech.vn",
+  "license": "Apache-2.0"
+}
